@@ -1,4 +1,5 @@
 #!/bin/bash
+#Leia o arquivo LEIA-ME.md
 #Criador:Griff/Curs4r
 #Informar para digitar o valor de Ax²+Bx+C=0
 echo "Valor da formula de Bhaskara em shell"
