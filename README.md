@@ -9,8 +9,8 @@
 ##
 
 ### *Minhas habilidades* 
-  <img align="center" alt="Merce-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain .svg">
-  <img align="center" alt="Merce-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain .svg">
+  <img align="center" alt="Merce-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain.svg">
+  <img align="center" alt="Merce-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg">
 
 
 
