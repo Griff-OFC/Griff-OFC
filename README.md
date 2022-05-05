@@ -1,10 +1,30 @@
-- 👋 Hi, I’m @Griff-OFC
-- 👀 I’m interested in Shell Script 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me https://t.me/curs4r
+###  Estatísticas do GitHub
 
-<!---
-Griff-OFC/Griff-OFC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div>
+  <a href="https://github.com/Griff-OFC/Griff-OFC">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Griff-OFC&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Griff-OFC&layout=compact&langs_count=7&theme=chartreuse-dark"/>
+</div>
+
+##
+
+### *Minhas habilidades* 
+  <img align="center" alt="Merce-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-plain .svg">
+  <img align="center" alt="Merce-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain .svg">
+
+
+
+
+</div>
+
+
+##
+
+
+<div>
+
+###  Contato
+
+  <a href="https://t.me/curs4r" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo= telegram&logoColor=white" target="_blank"></a>
+  <a href="http://wa.me/+5551995316402" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo= whatsapp&logoColor=white" target="_blank"></a>  
+</div>
