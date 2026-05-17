@@ -22,5 +22,6 @@
   
 ###  Contatos
   <a href="https://t.me/curs4r" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo= telegram&logoColor=white" target="_blank"></a>
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
   
 </div>
