@@ -22,5 +22,6 @@
   
 ###  Contatos
   <a href="https://t.me/curs4r" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo= telegram&logoColor=white" target="_blank"></a>
+   <div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="medium" data-theme="dark" data-type="HORIZONTAL" data-vanity="guilherme-silvasantos" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/guilherme-silvasantos?trk=profile-badge">Guilherme Silva Santos</a></div>
 
 </div>
